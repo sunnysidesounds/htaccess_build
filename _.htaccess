@@ -1,0 +1,7 @@
+<Limit GET HEAD POST>
+order deny,allow
+
+#EXAMPLE HTACCESS TO DUPLICATE FILE
+
+deny from all
+</Limit>
