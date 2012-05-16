@@ -16,5 +16,5 @@ Steps:
     htaccessFile = '/.htaccess'
     #List of filepath to write this file to
     htaccessFilePaths = ['path_to_put_htacess_file', 'path_to_put_htacess_file']
-    
     ```
+*	Login to your web server and copy these files to the root and execute. 
